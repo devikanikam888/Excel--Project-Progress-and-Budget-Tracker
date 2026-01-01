@@ -63,10 +63,6 @@
   - Maintain data consistency
 - Structured references to support scalability
 
-### Dashboard Walkthrough Video
-<!-- Replace the src link with your actual video file or GitHub-hosted link -->
-<video src="dashboard-demo.mp4" controls width="100%"></video>
-
 ---
 
 ## Gantt Chart Design & Logic
@@ -81,23 +77,6 @@
   - Reflect real-time date changes
 - Clean layout to avoid visual clutter
 
-### Gantt Chart Walkthrough Video
-<!-- Replace the src link with your actual video file or GitHub-hosted link -->
-<video src="gantt-chart-demo.mp4" controls width="100%"></video>
-
----
-
-## Analysis & Insights
-- *(Section intentionally left blank for future additions)*
-
----
-
-## How to Use the File
-- Update tasks only in the designated input areas
-- Use dropdowns for task status and categories
-- Avoid editing formula cells
-- Add new tasks below existing ones — visuals update automatically
-
 ---
 
 ## Tools & Skills Demonstrated
@@ -109,9 +88,3 @@
 - Practical project management thinking
 
 ---
-
-## Future Improvements
-- Add risk and dependency tracking
-- Include milestone indicators
-- Enhance KPI logic with weighted metrics
-- Extend dashboard for multi-project tracking
